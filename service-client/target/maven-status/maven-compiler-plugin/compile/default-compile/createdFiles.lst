@@ -1,0 +1,5 @@
+com\example\client\feign\CarFeignClient.class
+com\example\client\CarResponse.class
+com\example\client\ClientController.class
+com\example\client\ClientApplication.class
+com\example\client\config\ClientConfig.class
